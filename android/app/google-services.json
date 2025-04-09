@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "550849834869",
+    "project_id": "fibercaredb-1f598",
+    "storage_bucket": "fibercaredb-1f598.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:550849834869:android:cf4cf1ab3825f0b1076d3c",
+        "android_client_info": {
+          "package_name": "com.example.fibercare"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXYRjkhxUdnFkrmOmuT1R8iyzBAhG6cDU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
